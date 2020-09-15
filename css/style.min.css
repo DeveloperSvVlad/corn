@@ -1173,7 +1173,7 @@ input:focus::placeholder {
 
 .faq {
   background: url(../img/bg/bg6.png) no-repeat center/cover;
-  padding-top: 350px;
+  padding-top: 55px;
   padding-bottom: 200px;
 }
 
@@ -1197,7 +1197,7 @@ input:focus::placeholder {
 .faq__title {
   font-size: 36px;
   line-height: 36px;
-  color: #f9f7f7;
+  color: black;
   margin-bottom: 25px;
 }
 
